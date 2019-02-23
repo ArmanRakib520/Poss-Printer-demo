@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PosPrinter Demo</string>
+
+    <string name="bluetooth_adapter_not_available">No bluetooth adapter available</string>
+    <string name="bluetooth_found">Bluetooth device  found.</string>
+    <string name="bluetooth_open">Bluetooth Opened</string>
+    <string name="sent">Data sent.</string>
+    <string name="bluetooth_close">Bluetooth Closed</string>
+
+</resources>
